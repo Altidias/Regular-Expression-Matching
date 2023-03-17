@@ -7,6 +7,8 @@ Dynamic programming approach
 - Time complexity:
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 $$O(m * n)$$ 
+![alt text](https://github.com/Altidias/Regular-Expression-Matching/blob/main/runtime.png?raw=true)
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 $$O(min(m, n))$$
+![alt text](https://github.com/Altidias/Regular-Expression-Matching/blob/main/memory.png?raw=true)
